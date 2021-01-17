@@ -6,7 +6,7 @@ All buttons and links are interactive
 
 A fully responsive design was made by using Flexbox and Grid.
 
-You could check the demo out [here](https://lara-l-art.github.io/Museum/)
+You could check the demo out [here](https://lara-l-art.github.io/Museum_landing/)
 
 Design of layout you could see [here](https://www.figma.com/file/oI72z1fgloUPFHicbKS3c9/NAMU-(Museum)?node-id=0%3A1)
 
